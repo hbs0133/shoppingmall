@@ -1,0 +1,76 @@
+{
+  "products": [
+    {
+      "id": 0,
+      "img": "https://rafsimons.com/external-assets/Collections/SS21/Looks/_1440xAUTO_crop_center-center_none/2478/LOOK-06.webp",
+      "title": "Black Long  Vest Jacket",
+      "price": 835000,
+      "choice": true,
+      "new": true,
+      "size": ["S", "M", "L"]
+    },
+    {
+      "id": 1,
+      "img": "https://rafsimons.com/external-assets/Collections/SS21/Looks/_1440xAUTO_crop_center-center_none/2479/LOOK-07.webp",
+      "title": "White Long OnePiece ",
+      "price": 765000,
+      "choice": true,
+      "new": true,
+      "size": ["S", "M", "L"]
+    },
+    {
+      "id": 2,
+      "img": "https://rafsimons.com/external-assets/Collections/SS21/Looks/_1440xAUTO_crop_center-center_none/2493/LOOK-21.webp",
+      "title": "Long Balmacaan Coat",
+      "price": 1590000,
+      "choice": false,
+      "new": false,
+      "size": ["S", "M", "L"]
+    },
+    {
+      "id": 3,
+      "img": "https://rafsimons.com/external-assets/Collections/SS21/Looks/_1440xAUTO_crop_center-center_none/2520/LOOK-48.webp",
+      "title": "Over Black Jacket",
+      "price": 1293000,
+      "choice": false,
+      "new": true,
+      "size": ["S", "M", "L"]
+    },
+    {
+      "id": 4,
+      "img": "https://rafsimons.com/external-assets/Collections/SS21/Looks/_1440xAUTO_crop_center-center_none/2521/LOOK-49.webp",
+      "title": "Nylon Black Jacket",
+      "price": 129900,
+      "choice": true,
+      "new": false,
+      "size": ["S", "M", "L"]
+    },
+    {
+      "id": 5,
+      "img": "https://rafsimons.com/external-assets/Collections/SS21/Looks/_1440xAUTO_crop_center-center_none/2532/LOOK-60.webp",
+      "title": "Rock Band White Sweater",
+      "price": 869900,
+      "choice": false,
+      "new": false,
+      "size": ["S", "M", "L"]
+    },
+    {
+      "id": 6,
+      "img": "https://rafsimons.com/external-assets/Collections/SS21/Looks/_1440xAUTO_crop_center-center_none/2534/LOOK-62.webp",
+      "title": "White Polyester Long Jacket",
+      "price": 1130000,
+      "choice": true,
+      "new": false,
+      "size": ["S", "M", "L"]
+    },
+    {
+      "id": 7,
+      "img": "https://rafsimons.com/external-assets/Collections/SS21/Looks/_1440xAUTO_crop_center-center_none/2540/LOOK-68.webp",
+      "title": "Long Black Hoodie Jumper ",
+      "price": 1190900,
+      "choice": true,
+      "new": true,
+      "size": ["S", "M", "L"]
+    }
+  ]
+}
